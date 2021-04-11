@@ -1,3 +1,5 @@
 peach
-mango
+mangos
 banana
+apple
+kiwi
