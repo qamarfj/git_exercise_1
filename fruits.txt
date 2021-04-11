@@ -1,3 +1,7 @@
 peach
+mangos
+banana
+apple
 orange
 banana
+
